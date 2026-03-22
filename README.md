@@ -1,17 +1,17 @@
-# 👋 Welcome to Clearview Geographic
+# 🌊 Clearview Geographic — Geospatial Intelligence & AI
 
 <div align="center">
 
-![CVG Neuron](https://img.shields.io/badge/CVG_Neuron-Continuously_Learning_AI-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-290%2B_Real_Projects-green?style=for-the-badge)
-![Free Chat](https://img.shields.io/badge/Free_Chat-Forever-yellow?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Self--Optimizing-purple?style=for-the-badge)
+![CVG Neuron](https://img.shields.io/badge/CVG_Neuron-AI_Intelligence_Engine-blue?style=for-the-badge)
+![GIS](https://img.shields.io/badge/GIS-290%2B_Real_Projects-green?style=for-the-badge)
+![Florida](https://img.shields.io/badge/Florida_Coast-Since_2018-teal?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-MIT_Samples-yellow?style=for-the-badge)
 
-### 🔄 AI That Gets Smarter Every Day
+### 🌊 Environmental Stewardship Through Geospatial Intelligence
 
-**Continuously learning business intelligence trained on 290+ real projects**
+**Sea level rise · Flood risk · Storm surge · Coastal resilience — Powered by CVG Neuron AI**
 
-[🆓 Try Free Chat](https://clearviewgeographic.com/chat) • [📚 Documentation](https://clearviewgeographic.com/docs) • [💼 Enterprise](https://clearviewgeographic.com/enterprise)
+[🌐 Website](https://clearviewgeographic.com)  ·  [📧 Contact](mailto:support@clearviewgeographic.com)  ·  [🌊 Storm Surge Live](https://storm-surge.cleargeo.tech)
 
 </div>
 
@@ -19,121 +19,96 @@
 
 ## 🧠 What is CVG Neuron?
 
-**CVG Neuron** is a revolutionary **continuously learning and self-optimizing AI** platform that gets smarter with every interaction. Unlike static AI models, CVG Neuron:
+**CVG Neuron** is CVG's private AI intelligence engine — a self-hosted, continuously learning AI system built on our own infrastructure in New Smyrna Beach, FL. It powers analysis across all CVG platform services.
 
-- 🔄 **Continuously Learns** - No training cutoff date, stays current with latest business practices
-- 📚 **Real Business Foundation** - Trained on 290+ actual projects (2018-2025), not synthetic data
-- 🎯 **Self-Optimizing** - Automatically identifies and incorporates better patterns
-- ∞ **Infinite Growth** - Every interaction makes the entire system smarter for everyone
-- 🆓 **Free Forever** - Online chat accessible to all, no credit card required
-
-### Started with 290+ Real Projects, Growing Every Day
-
-**Proven expertise in:**
-- 💼 Business operations and consulting (project management, proposals, client relations)
-- 🗺️ Geospatial intelligence and GIS automation
-- 🌍 Environmental consulting and climate analysis
-- 📊 Data-driven decision making and predictive analytics
-- 🔧 IT operations and infrastructure automation
-- 📝 Content creation and document intelligence
+- 🔄 **Continuously Learns** — Every project and interaction improves future analysis
+- 🗺️ **Domain Expert** — Trained on 290+ real GIS, flood risk, and environmental projects (2018–2026)
+- 🔒 **Self-Hosted & Private** — Runs on CVG Hive-0 cluster, no data leaves our infrastructure
+- 🌊 **Coastal Specialist** — Northeast Florida coast, NOAA VDatum, HEC-RAS, storm surge modeling
+- 🤖 **Open Samples** — MIT-licensed examples for the community
 
 ---
 
-## 🚀 Quick Start
+## 🗂️ Repositories
 
-### 🆓 Try Free Chat (No Credit Card)
-
-Experience continuously learning AI instantly:
-
-```
-👉 https://clearviewgeographic.com/chat
-```
-
-**Free tier includes:**
-- ✅ Full access to 290+ projects of intelligence
-- ✅ Self-optimizing responses that improve daily
-- ✅ Business operations, consulting, technical assistance
-- ✅ Available 24/7, forever free
-- ✅ No usage limits or credit card required
-
-### 🛠️ Explore Code Samples
-
-Check out our open-source samples:
-
-[![CVG Neuron Public](https://img.shields.io/badge/Repo-cvg--neuron--public-blue?logo=github)](https://github.com/cleargeo/cvg-neuron-public)
-
-```bash
-git clone https://github.com/cleargeo/cvg-neuron-public.git
-```
+| Repository | Description | Status |
+|------------|-------------|--------|
+| [cvg-neuron-public](https://github.com/cleargeo/cvg-neuron-public) | Open-source CVG Neuron samples (MIT) | 🟢 Public |
+| [CVG-Neuron](https://github.com/cleargeo/CVG-Neuron) | AI orchestration platform source | 🟢 Public |
+| [CVG-Storm-Surge-Wizard](https://github.com/cleargeo/CVG-Storm-Surge-Wizard) | Storm surge analysis API | 🟢 Live |
+| [CVG-SLR-Wizard](https://github.com/cleargeo/CVG-SLR-Wizard) | Sea level rise modeling | 🟢 Public |
+| [CVG-Rainfall-Wizard](https://github.com/cleargeo/CVG-Rainfall-Wizard) | Rainfall analysis wizard | 🟢 Public |
+| [CVG-Geoserver-Raster](https://github.com/cleargeo/CVG-Geoserver-Raster) | Raster GeoServer platform | 🟢 Public |
+| [CVG-Geoserver-Vector](https://github.com/cleargeo/CVG-Geoserver-Vector) | Vector GeoServer platform | 🟢 Public |
+| [CVG-GeoServ-Processor](https://github.com/cleargeo/CVG-GeoServ-Processor) | GeoServer automation processor | 🟢 Public |
+| [cleargeo](https://github.com/cleargeo/cleargeo) | This profile | — |
 
 ---
 
-## 💼 Business Intelligence Capabilities
-
-### What CVG Neuron Can Do For Your Business
+## 🌊 Expertise
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 📊 Operations
-- Project management
-- Proposal development
-- Workflow optimization
-- Resource allocation
-- Process automation
+#### 🌊 Coastal Analysis
+- Sea level rise (NOAA VDatum)
+- Storm surge modeling
+- Flood risk assessment
+- FEMA FIRM / NFIP  
+- Coastal vulnerability
 
 </td>
 <td width="33%" valign="top">
 
-#### 👥 Relationships
-- Client engagement
-- Stakeholder coordination
-- Team collaboration
-- Negotiation support
-- Partnership development
+#### 🗺️ GIS & Spatial
+- ArcGIS Pro automation
+- GeoServer deployment
+- QGIS workflows
+- Spatial data pipelines
+- LiDAR point cloud analysis
 
 </td>
 <td width="33%" valign="top">
 
-#### 📝 Content
-- Proposal writing
-- Report generation
-- Documentation
-- Contract analysis
-- Presentations
+#### 🤖 AI & Platform
+- CVG Neuron AI engine
+- FastAPI microservices
+- Docker / container ops
+- Hive cluster computing
+- Python automation
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-#### 🔍 Analytics
-- Predictive forecasting
-- Pattern recognition
-- Risk assessment
-- Trend analysis
-- Performance metrics
+#### 💧 Hydrology
+- HEC-RAS 2025 modeling
+- Rainfall frequency analysis
+- ICPR / SWMM stormwater
+- HAZUS flood modeling
+- Watershed delineation
 
 </td>
 <td width="33%" valign="top">
 
-#### 🌍 Geospatial
-- Flood risk modeling
-- GIS automation
-- Coastal analysis
-- Environmental assessment
-- Spatial intelligence
+#### 📋 Environmental
+- 404/401 wetland permits
+- UMAM/WRAP assessments
+- Listed species surveys
+- ERP applications
+- Environmental assessments
 
 </td>
 <td width="33%" valign="top">
 
-#### 🔧 Technical
-- Infrastructure monitoring
-- Security operations
-- DevOps workflows
-- System integration
-- Automation development
+#### 🏛️ Municipal GIS
+- Comprehensive plan analysis
+- Parcel data management
+- Capital improvement mapping
+- Land use analysis
+- Utility infrastructure GIS
 
 </td>
 </tr>
@@ -141,343 +116,94 @@ git clone https://github.com/cleargeo/cvg-neuron-public.git
 
 ---
 
-## 📈 Proven Results
+## 📊 Track Record
 
 <div align="center">
 
-| Metric | Result |
-|--------|--------|
-| ⚡ **Setup Time** | 85% Faster |
-| 📝 **Proposal Development** | 3 Hours (vs. days) |
-| 👥 **Stakeholder Interactions** | 1,000+ Optimized |
-| 📊 **Projects Analyzed** | 290+ & Growing |
-| 🎯 **Platform Uptime** | 99.9% |
-| 🔄 **Learning** | 24/7 Continuous |
+| | |
+|---|---|
+| **290+ Projects** | Delivered 2018–2026 |
+| **Northeast FL Focus** | Volusia, Flagler, St. Johns, Putnam, Brevard counties |
+| **Key Clients** | FDEP, USACE Jacksonville, FEMA, SFWMD, SJRWMD, Volusia County, Flagler County |
+| **Storm Surge API** | Live at storm-surge.cleargeo.tech |
+| **AI Engine** | Self-hosted CVG Neuron on private Hive-0 cluster |
 
 </div>
-
----
-
-## 💰 Flexible Pricing
-
-<div align="center">
-
-| Plan | Price | Best For |
-|------|-------|----------|
-| **FREE** | $0 | Everyone - Chat access forever |
-| **STARTER** | $49/mo | API & private repos |
-| **PRO** | $299/mo | Teams (5 users) + ArcGIS |
-| **BUSINESS** | $999/mo | 20 users + custom workflows |
-| **ENTERPRISE** | $2,500/mo | Unlimited + 24/7 support |
-
-[View Full Pricing →](https://clearviewgeographic.com/pricing)
-
-</div>
-
----
-
-## 🌟 Why CVG Neuron vs. Other AI?
-
-### CVG Neuron vs. ChatGPT
-
-| Feature | ChatGPT | CVG Neuron |
-|---------|---------|------------|
-| Training | Static with cutoff | **Continuous, no cutoff** |
-| Data | Generic internet | **290+ real business projects** |
-| Learning | Fixed | **Self-optimizing daily** |
-| Business Focus | General | **Proven methodologies** |
-| Cost | $20/mo | **$0 free tier, $49-2.5k/mo** |
-
-### CVG Neuron vs. Traditional BI
-
-| Feature | Traditional BI | CVG Neuron |
-|---------|----------------|------------|
-| Intelligence | Rule-based | **AI-powered** |
-| Updates | Manual | **Automatic learning** |
-| Insights | Descriptive | **Predictive + Prescriptive** |
-| Setup | Weeks/months | **Minutes** |
-| Improvement | Version releases | **Continuous evolution** |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI/ML:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC9A6B?logo=anthropic&logoColor=white)
-
-**Infrastructure:**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-**Geospatial:**  
+**Geospatial:**
 ![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-007AC2?logo=esri&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?logo=gdal&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58)
+![GeoServer](https://img.shields.io/badge/GeoServer-4E9A06)
+
+**AI / Infrastructure:**
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-00ADD8)
 
 ---
 
-## 📚 Resources
+## 📦 Open Source Samples
 
-### 🔗 Quick Links
+### [cvg-neuron-public](https://github.com/cleargeo/cvg-neuron-public)
 
-<div align="center">
+MIT-licensed code samples from the CVG Neuron platform. Automation patterns, API integration examples, and GIS scripting utilities.
 
-[![Website](https://img.shields.io/badge/🌐_Website-clearviewgeographic.com-blue?style=for-the-badge)](https://clearviewgeographic.com)
-[![Free Chat](https://img.shields.io/badge/💬_Free_Chat-Try_Now-green?style=for-the-badge)](https://clearviewgeographic.com/chat)
-[![Documentation](https://img.shields.io/badge/📚_Docs-Read_Now-orange?style=for-the-badge)](https://clearviewgeographic.com/docs)
-[![Enterprise](https://img.shields.io/badge/💼_Enterprise-Contact_Sales-purple?style=for-the-badge)](https://clearviewgeographic.com/enterprise)
-
-</div>
-
-### 📖 Learning Resources
-
-- 📘 [Getting Started Guide](https://clearviewgeographic.com/docs/getting-started)
-- 📗 [API Reference](https://clearviewgeographic.com/api)
-- 📙 [Case Studies](https://clearviewgeographic.com/case-studies)
-- 📕 [Training Data Info](https://clearviewgeographic.com/training-data)
-- 📓 [Best Practices](https://clearviewgeographic.com/best-practices)
-
----
-
-## 🏢 About Clearview Geographic
-
-**Founded:** 2018  
-**Location:** DeLand, Florida  
-**Mission:** *Continuously building intelligence for informed decision-making*
-
-### Core Values (CLEARVIEW)
-
-✨ **C**reativity • **L**eadership • **E**thics • **A**ccuracy  
-✨ **R**espect • **V**ision • **I**ntegrity • **E**xcellence • **W**isdom
-
-### Our Technology Ecosystem
-
-- **CVG Neuron™** - Continuously learning AI engine
-- **CVG-HIVE™** - Distributed computing infrastructure
-- **CVG-COMB™** - Tiered memory architecture
-- **DeepLink™** - Hardware integration layer
-- **StratoVault™** - Secure credential management
-- **CVG Observability™** - Real-time monitoring
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=cleargeo&color=blue&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repositories-2-blue?style=for-the-badge)
-![Topics](https://img.shields.io/badge/Topics-20%2B-green?style=for-the-badge)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### 💬 Start a Free Conversation
-
-[![Free Chat](https://img.shields.io/badge/💬_Try_CVG_Neuron_Free-No_Credit_Card_Required-success?style=for-the-badge&logo=wechat)](https://clearviewgeographic.com/chat)
-
-### 📞 Contact Options
-
-[![Email](https://img.shields.io/badge/Email-support%40clearviewgeographic.com-red?style=flat-square&logo=gmail)](mailto:support@clearviewgeographic.com)
-[![Phone](https://img.shields.io/badge/Phone-386--957--2314-blue?style=flat-square&logo=phone)](tel:386-957-2314)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clearview_Geographic-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/clearviewgeographic)
-[![Website](https://img.shields.io/badge/Website-clearviewgeographic.com-orange?style=flat-square&logo=google-chrome)](https://clearviewgeographic.com)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🧠 CVG Neuron Public Samples
-
-[![Repo](https://img.shields.io/badge/Repository-cvg--neuron--public-blue?logo=github)](https://github.com/cleargeo/cvg-neuron-public)
-![Stars](https://img.shields.io/github/stars/cleargeo/cvg-neuron-public?style=social)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-Open-source samples demonstrating CVG Neuron's continuously learning AI capabilities. Free code for automation, integration, and business intelligence.
-
-**Key Features:**
-- 🔄 Continuous learning examples
-- 💼 Business automation samples
-- 🌍 Geospatial intelligence demos
-- 🔒 Enterprise security patterns
-
-[View Repository →](https://github.com/cleargeo/cvg-neuron-public)
-
----
-
-## 💡 What Makes Us Different
-
-<div align="center">
-
-### 🔄 Continuously Learning • 📚 290+ Real Projects • ∞ Self-Optimizing • 🆓 Free Forever
-
-</div>
-
-**CVG Neuron is the only AI platform that:**
-1. Learns from every interaction in real-time
-2. Trains on actual business projects, not synthetic data
-3. Self-optimizes without manual updates
-4. Offers free tier with full intelligence access
-5. Gets smarter every single day
-
-**Not just another ChatGPT wrapper** - this is living intelligence built from real consulting, operations, and technical delivery experience.
-
----
-
-## 📈 Proven Results
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  85% Faster Setup  │  3-Hour Proposals  │  99.9% Uptime   │
-├─────────────────────────────────────────────────────────────┤
-│  290+ Projects  │  1,000+ Stakeholders  │  24/7 Learning  │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-> *"The continuous learning aspect is game-changing. It actually gets better at understanding our workflows with every project."*  
-> — **Michael Chen**, GIS Manager, Municipal Government
-
----
-
-## 🚀 Get Started
-
-### Option 1: Free Chat (Instant Access)
-```
-👉 No signup required: https://clearviewgeographic.com/chat
-```
-
-### Option 2: Code Samples (Open Source)
 ```bash
 git clone https://github.com/cleargeo/cvg-neuron-public.git
 ```
 
-### Option 3: Enterprise Platform
-```
-📞 Schedule demo: https://clearviewgeographic.com/demo
-💼 Pricing: $0 (free) to $2,500/mo (enterprise)
-```
+---
+
+## 🌐 Live Services
+
+| Service | URL |
+|---------|-----|
+| Storm Surge API | [storm-surge.cleargeo.tech](https://storm-surge.cleargeo.tech) |
+| SLR Wizard | [slr.cleargeo.tech](https://slr.cleargeo.tech) |
+| Rainfall Wizard | [rainfall.cleargeo.tech](https://rainfall.cleargeo.tech) |
+| Raster GeoServer | [raster.cleargeo.tech](https://raster.cleargeo.tech) |
+| Vector GeoServer | [vector.cleargeo.tech](https://vector.cleargeo.tech) |
+| Company Website | [clearviewgeographic.com](https://clearviewgeographic.com) |
 
 ---
 
-## 🌟 Recognition & Trust
+## 🏗️ CVG Technology Ecosystem
 
-<div align="center">
-
-![Uptime](https://img.shields.io/badge/🎯_Uptime-99.9%25-success)
-![SOC2](https://img.shields.io/badge/🔒_SOC_2-Compliant-blue)
-![Award](https://img.shields.io/badge/🏆_Award-Winning-gold)
-![Enterprise](https://img.shields.io/badge/💼_Enterprise-Ready-purple)
-
-</div>
-
-- ✅ **SOC 2 Compliant** - Enterprise-grade security
-- ✅ **99.9% Uptime** - Reliable and fast
-- ✅ **Industry Recognized** - Award-winning platform
-- ✅ **Proven ROI** - Measurable business impact
-- ✅ **Trusted Globally** - Organizations worldwide
+- **CVG Neuron** — Private AI intelligence engine (self-hosted Ollama + FastAPI, port 8095)
+- **CVG Hive-0** — Private compute cluster (Proxmox, Dell PowerEdge, Synology NAS, NSB, FL)
+- **CVG COMB** — Tiered AI memory system (volatile → bithive → pollenstore → waxcell)
+- **CVG Support Engines** — Git, DNS, Containerization, Audit microservices
+- **StratoVault** — Secure credential management
+- **CVG Observability** — Prometheus + Grafana + Loki monitoring
 
 ---
 
-## 📖 Latest from Our Blog
+## 💼 About
 
-<!-- BLOG-POST-LIST:START -->
-- 🔄 [Why Continuously Learning AI Beats Static Models](https://clearviewgeographic.com/blog)
-- 💼 [From Days to 3 Hours: AI-Powered Proposals](https://clearviewgeographic.com/blog)
-- 🧠 [The Future of Business Intelligence](https://clearviewgeographic.com/blog)
-<!-- BLOG-POST-LIST:END -->
+**Clearview Geographic, LLC** — Environmental and geospatial consulting firm specializing in coastal resilience, flood risk, and GIS intelligence for Florida's northeast coast.
 
----
-
-## 🎓 Who We Serve
-
-<div align="center">
-
-| Business Professionals | Technical Teams | Organizations |
-|----------------------|-----------------|---------------|
-| Project Managers | GIS Analysts | Consulting Firms |
-| Consultants | Data Scientists | Government Agencies |
-| Operations Managers | IT Directors | Environmental Orgs |
-| Analysts | Developers | Research Institutions |
-| Executives | Engineers | Enterprise Companies |
-
-</div>
-
----
-
-## 📞 Contact & Support
-
-### 💬 Community Support (Free)
-- **GitHub Discussions:** Ask questions, share ideas
-- **GitHub Issues:** Report bugs, request features
-- **Documentation:** Comprehensive guides and tutorials
-
-### 💼 Enterprise Support
-- **Email:** support@clearviewgeographic.com
-- **Phone:** 386-957-2314 x 101
-- **SLA:** 2-hour response for critical issues
-- **Support:** Dedicated engineer and success manager
-
-### 📧 General Inquiries
-- **Sales:** sales@clearviewgeographic.com
-- **Security:** security@clearviewgeographic.com
-- **Partnerships:** partnerships@clearviewgeographic.com
-- **Careers:** careers@clearviewgeographic.com
-
----
-
-## 🔗 Connect With Us
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-clearviewgeographic.com-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://clearviewgeographic.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/clearviewgeographic)
-[![Email](https://img.shields.io/badge/Email-support%40clearviewgeographic.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@clearviewgeographic.com)
-
-</div>
-
----
-
-## 🏆 Our Mission
-
-<div align="center">
-
-### *"Continuously building intelligence for informed decision-making"*
-
-We empower organizations with **AI that actually learns and improves** - not just processes requests, but gets smarter with every interaction.
-
-**290+ projects of proven expertise** • **∞ Infinite growth potential** • **🆓 Free forever tier**
-
-</div>
+- 📍 **DeLand, FL** (HQ) · **New Smyrna Beach, FL** (Hive-0 infrastructure cluster)
+- 🗓️ **Founded:** 2018
+- 👤 **Principal:** Alex Zelenski, GISP
+- 📧 **Contact:** support@clearviewgeographic.com
+- 🌐 **Website:** [clearviewgeographic.com](https://clearviewgeographic.com)
 
 ---
 
 <div align="center">
 
-### 🔄 Experience AI That Evolves With You
+[![Website](https://img.shields.io/badge/🌐-clearviewgeographic.com-blue?style=for-the-badge)](https://clearviewgeographic.com)
+[![Email](https://img.shields.io/badge/📧-support%40clearviewgeographic.com-red?style=for-the-badge)](mailto:support@clearviewgeographic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clearview_Geographic-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/clearviewgeographic)
 
-**Start Free** • **No Credit Card** • **Available 24/7** • **Gets Smarter Daily**
-
-[![Try Free Chat](https://img.shields.io/badge/🚀_START_FREE_CHAT_NOW-brightgreen?style=for-the-badge)](https://clearviewgeographic.com/chat)
-
----
-
-**Made with ❤️ by Clearview Geographic LLC**  
-*DeLand, Florida • Since 2018*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Continuously%20Building%20Intelligence&fontSize=20&fontColor=ffffff&animation=twinkling)
+**Made with 🌊 by Clearview Geographic LLC · DeLand, Florida · Est. 2018**
 
 </div>
