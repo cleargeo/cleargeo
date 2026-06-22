@@ -35,12 +35,18 @@
 |------------|-------------|--------|
 | [cvg-neuron-public](https://github.com/cleargeo/cvg-neuron-public) | Open-source CVG Neuron samples (MIT) | 🟢 Public |
 | [CVG-Neuron](https://github.com/cleargeo/CVG-Neuron) | AI orchestration platform source | 🟢 Public |
+| [Universal-Map](https://github.com/cleargeo/Universal-Map) | Toroidal cosmological visualization | 🟢 Public |
+| [Serenal-Binary-Framework](https://github.com/cleargeo/Serenal-Binary-Framework) | Toroidal cosmology + consciousness model | 🟢 Public |
+| [flowsint](https://github.com/cleargeo/flowsint) | Geospatial intelligence platform (Node/TS) | 🟢 Public |
+| [cvg-hive](https://github.com/cleargeo/cvg-hive) | Post-Quantum Distributed Intelligence Mesh | 🟢 Public |
 | [CVG-Storm-Surge-Wizard](https://github.com/cleargeo/CVG-Storm-Surge-Wizard) | Storm surge analysis API | 🟢 Live |
 | [CVG-SLR-Wizard](https://github.com/cleargeo/CVG-SLR-Wizard) | Sea level rise modeling | 🟢 Public |
 | [CVG-Rainfall-Wizard](https://github.com/cleargeo/CVG-Rainfall-Wizard) | Rainfall analysis wizard | 🟢 Public |
 | [CVG-Geoserver-Raster](https://github.com/cleargeo/CVG-Geoserver-Raster) | Raster GeoServer platform | 🟢 Public |
 | [CVG-Geoserver-Vector](https://github.com/cleargeo/CVG-Geoserver-Vector) | Vector GeoServer platform | 🟢 Public |
 | [CVG-GeoServ-Processor](https://github.com/cleargeo/CVG-GeoServ-Processor) | GeoServer automation processor | 🟢 Public |
+| [SLAMM_Projects](https://github.com/cleargeo/SLAMM_Projects) | Sea Level Affecting Marshes Model data | 🟢 Public |
+| [collector](https://github.com/cleargeo/collector) | Data collection and ingestion platform | 🟢 Public |
 | [cleargeo](https://github.com/cleargeo/cleargeo) | This profile | — |
 
 ---
@@ -177,12 +183,26 @@ git clone https://github.com/cleargeo/cvg-neuron-public.git
 
 ## 🏗️ CVG Technology Ecosystem
 
-- **CVG Neuron** — Private AI intelligence engine (self-hosted Ollama + FastAPI, port 8095)
+- **CVG Neuron** — Private AI intelligence engine (self-hosted Ollama + FastAPI, port 8808)
 - **CVG Hive-0** — Private compute cluster (Proxmox, Dell PowerEdge, Synology NAS, NSB, FL)
 - **CVG COMB** — Tiered AI memory system (volatile → bithive → pollenstore → waxcell)
 - **CVG Support Engines** — Git, DNS, Containerization, Audit microservices
 - **StratoVault** — Secure credential management
 - **CVG Observability** — Prometheus + Grafana + Loki monitoring
+
+---
+
+## 🔗 Webhook Integration
+
+CVG Neuron provides a webhook receiver at `http://<neuron-host>:8808/api/webhook/` for CI/CD integration:
+
+- **GitHub** — Push, PR, release, workflow events (HMAC-SHA256 authenticated)
+- **Azure DevOps** — Build, release, PR events
+- **Generic Deploy** — Any CI/CD system can POST deployment status
+
+All CVG platform services (Rainfall Wizard, SLR Wizard, GeoServer, GeoServ Processor) include the `neuron_webhook.py` client module for deployment notifications.
+
+See [cvg-neuron-public/examples/webhook_integration](https://github.com/cleargeo/cvg-neuron-public/tree/main/examples/webhook_integration) for the full client SDK.
 
 ---
 
